@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+li
+{
+	padding-left: 0;
+	margin-left: 0;	
+}
+
+h1,h2,h3
+{
+	margin-bottom: 0;
+	padding-bottom: 0;	
+}
+
+h3
+{
+	float: left;	
+}
+
+img.assessmentClassifier
+{
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+	width: 40px;
+}
+
+br.break
+{
+	float: none;
+	clear: both;	
+}	

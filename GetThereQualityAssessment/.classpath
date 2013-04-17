@@ -1,101 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/Jena 2.10/jena-arq-2.10.0.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/Jena 2.10/httpcore-4.2.2.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/Jena 2.10/jcl-over-slf4j-1.6.4.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/Jena 2.10/jena-core-2.10.0.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/Jena 2.10/jena-iri-0.9.5.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/Jena 2.10/log4j-1.2.16.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/Jena 2.10/xercesImpl-2.10.0.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/xml-apis-1.4.01.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/json-lib-2.3-jdk15.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/slf4j-api-1.6.4.jar"/>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/commons-beanutils-1.8.3.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/commons-collections-3.2.1.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/commons-lang-2.5.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/commons-logging-1.1.1.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/ezmorph-1.0.6.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/httpclient-4.2.3.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/icu4j-3.4.4.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/jcoord-1.0.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/mysql-connector-java-5.1.22-bin.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/Users/chris/Documents/workspace/Libs/GTQA/slf4j-log4j12-1.6.4.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
@@ -104,13 +8,28 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JVM 1.6.0 (MacOS X Default)">
-		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/chris/Documents/workspace/Libs/SPINReasoningModule-3.0.jar"/>
-	<classpathentry kind="lib" path="/Users/chris/Documents/workspace/Libs/SPIN 1.3/spin-1.3.0.jar"/>
-	<classpathentry kind="lib" path="/Users/chris/Documents/workspace/Libs/Prov-API-1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/jcoord-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/jena-arq-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/jena-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/jena-iri-0.9.5.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/Prov-API-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/SPINReasoningModule-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/chris/Documents/Java/lib/GTQA/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

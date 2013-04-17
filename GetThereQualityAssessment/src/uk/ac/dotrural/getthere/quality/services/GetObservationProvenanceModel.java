@@ -33,7 +33,7 @@ public class GetObservationProvenanceModel extends HttpServlet {
      */
     public GetObservationProvenanceModel() {
         super();
-        // TODO Auto-generated constructor stub
+
     }
 
 	/**
@@ -85,7 +85,7 @@ public class GetObservationProvenanceModel extends HttpServlet {
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
+
 	}
 	
 	public ResultSet queryProvenance(OntModel model)

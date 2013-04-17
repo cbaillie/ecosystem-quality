@@ -57,7 +57,7 @@ public class QualityAPI {
 	 */
 	public ArrayList<QualityScore> assess(String observationUri, String ruleLocation)
 	{
-		ArrayList<QualityScore> scores = null;
+		ArrayList<QualityScore> scores = new ArrayList<QualityScore>();
 		long start = 0, finish = 0;
 		JsonSensorObservationEntity observationJson = new JsonSensorObservationEntity(ENDPOINT, observationUri);
 		JsonSensorObservationValueEntity observationValueJson = new JsonSensorObservationValueEntity(ENDPOINT, SensorObservationUtilities.getObservationResultUri(ENDPOINT + OBS_VAL_SERVICE, observationJson.getObservationResult()));

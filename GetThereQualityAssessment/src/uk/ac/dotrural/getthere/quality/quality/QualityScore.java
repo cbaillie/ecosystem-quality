@@ -72,6 +72,11 @@ public class QualityScore implements Comparable<QualityScore> {
 	public String getTypeNamespace() {
 		return typeNamespace;
 	}
+	
+	public QualityScore()
+	{
+		
+	}
 
 	public QualityScore(String d, String desc, String s, String a, String rn, String l)
 	{
